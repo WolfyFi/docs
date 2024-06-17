@@ -1,4 +1,5 @@
 site_name: WolfyFi Docs
+site_url: https://wolfyfi.github.io/wolfyfi-docs/
 theme:
   name: material
   palette:
